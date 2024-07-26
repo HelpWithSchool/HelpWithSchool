@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm HelpWithSchool</h1>
 <h3 align="center">A passionate frontend developer from New York</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=helpwithschool&label=Profile%20views&color=0e75b6&style=flat" alt="helpwithschool" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=helpwithschool" alt="helpwithschool" /></a> </p>
 
 - 🔭 I’m currently working on [Ghost Unblocker](https://ghostublx.pages.dev/)
